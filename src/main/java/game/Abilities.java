@@ -1,0 +1,20 @@
+package game;
+
+public enum Abilities {
+    RECOVERY,
+    EYE_OF_THE_HAWk,
+    HEAL,
+    SHADOW_HIDE,
+    WIPE_MEMORY,
+    MEDITATE,
+    HEADSHOT,
+    FORAGE,
+    STEAL_AND_SNEAK,
+    TRAP_KNOWLEDGE,
+    STRONG_STRIKE,
+    CAST_FIREBALL,
+    CAST_HEAL,
+    CAST_HOLY_STRIKE,
+    CAST_ELDRITCH_BLAST,
+    DRAIN_LIFE
+}
