@@ -67,7 +67,7 @@ public class Message {
                 str6 += "Selecting for Adventure";
             }
         } else {
-            str5 = characters.get(4+curPage*5).shortString();
+            str5 = "5: "+characters.get(4+curPage*5).shortString();
             str6 = "6: Next page";
         }
         if (curPage*5<characters.size()){
